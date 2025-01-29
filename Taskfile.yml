@@ -1,6 +1,14 @@
 ---
 version: "3"
 tasks:
+  # serve
+  serve:
+    summary: serve
+    desc: serve
+    silent: true
+    dir: docs
+    cmds:
+      - bundle exec jekyll serve
   # tool-versions
   tool-versions:upgrade:repo:
     summary: Upgrade version in .tool-versions

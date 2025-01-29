@@ -1,34 +1,43 @@
 version: 0.1
 cli:
-  version: 1.22.5
+  version: 1.22.9
 plugins:
   sources:
+    - id: aps831
+      ref: v2.4.1
+      uri: https://github.com/aps831/trunk-io-plugins
     - id: trunk
-      ref: v1.6.2
+      ref: v1.6.6
       uri: https://github.com/trunk-io/plugins
 lint:
   disabled:
     - terraform-validate
   enabled:
-    - checkov@3.2.253
-    - trufflehog@3.82.1
-    - trivy@0.55.1
+    - checkov@3.2.358
+    - trufflehog@3.88.2
+    - trivy@0.58.2
     - yamllint@1.35.1
-    - actionlint@1.7.1
+    - actionlint@1.7.7
     - git-diff-check
-    - gitleaks@8.18.4
-    - markdownlint@0.41.0
-    - prettier@3.3.3
+    - gitleaks@8.23.2
+    - markdownlint@0.44.0
+    - prettier@3.4.2
     - shellcheck@0.10.0
     - shfmt@3.6.0
 runtimes:
   enabled:
     - python@3.10.8
     - go@1.21.0
-    - node@18.12.1
+    - node@18.20.5
 actions:
   disabled:
   enabled:
+    - wip-check
+    - templated-output-check
+    - hardcoding-check
+    - commitizen-tools-check
+    - commitizen-prompt-conventional
+    - commit-branch
     - trunk-announce
     - trunk-check-pre-push
     - trunk-fmt-pre-commit

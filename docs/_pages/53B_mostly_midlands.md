@@ -7,7 +7,7 @@ title: "Mostly Midlands"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M99GKCGRW4U" title="Mostly Midlands (Part 1)" frameBorder="0"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowFullScreen></iframe>
 
-Allington Jn
+Allington Junction
 
 - TODO Check slides for date
 - Filmed August 1992

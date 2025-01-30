@@ -122,7 +122,7 @@ Lymm Bank LC
 
 Little Steeping
 
-Bellwater Jn LC
+Bellwater Junction LC
 
 East Ville
 
@@ -194,7 +194,7 @@ Lymm Bank LC
 
 Little Steeping
 
-Bellwater Jn LC
+Bellwater Junction LC
 
 East Ville
 
@@ -276,7 +276,7 @@ Filename: 05_great_northern_in_lincolnshire_part_3
 
 ---
 
-Allington Jn
+Allington Junction
 
 Grantham
 
@@ -314,7 +314,7 @@ Boston
 
 ---
 
-Allington Jn
+Allington Junction
 
 - TODO Check slides for date
 - Filmed August 1992
@@ -341,7 +341,7 @@ Downham Market
 
 Thetford
 
-Ely North Jn
+Ely North Junction
 
 ---
 
@@ -395,7 +395,7 @@ Downham Market
 
 Thetford
 
-Ely North Jn
+Ely North Junction
 
 ---
 
@@ -433,7 +433,7 @@ Filename: 07_great_northern_in_lincolnshire_part_3
 
 ---
 
-Allington Jn
+Allington Junction
 
 Grantham
 
@@ -471,7 +471,7 @@ Boston
 
 ---
 
-Allington Jn
+Allington Junction
 
 - TODO Check slides for date
 - Filmed August 1992
@@ -543,7 +543,7 @@ March Depot
 
 ---
 
-March Whitemoor Jn
+March Whitemoor Junction
 
 - Filmed Saturday 6 November 1982
 
@@ -658,7 +658,7 @@ March Depot
 
 ---
 
-March Whitemoor Jn
+March Whitemoor Junction
 
 - Filmed Saturday 6 November 1982
 
@@ -750,15 +750,15 @@ Luffenham
 
 ---
 
-Langham Jn
+Langham Junction
 
 Ashwell
 
 Saxby
 
-Syston South Jn
+Syston South Junction
 
-Syston North Jn
+Syston North Junction
 
 ## [Helpston to Syston](https://youtu.be/VcatJPiANKE)
 
@@ -804,15 +804,15 @@ Luffenham
 
 ---
 
-Langham Jn
+Langham Junction
 
 Ashwell
 
 Saxby
 
-Syston South Jn
+Syston South Junction
 
-Syston North Jn
+Syston North Junction
 
 ## Sandtoft Trolleybus Centre and Horsham
 
@@ -876,7 +876,7 @@ Downham Market
 
 Thetford
 
-Ely North Jn
+Ely North Junction
 
 ---
 
@@ -918,7 +918,7 @@ Filename: 14_north_lincolnshire_incl_barnetby_to_retford_cab_ride
 
 ---
 
-Lincoln Pelham Street Jn
+Lincoln Pelham Street Junction
 
 Lincoln
 
@@ -930,11 +930,11 @@ Snelland
 
 Market Rasen
 
-Wrawby Jn
+Wrawby Junction
 
 Barnetby
 
-Brocklesby Jn
+Brocklesby Junction
 
 Stallingborough
 
@@ -988,7 +988,7 @@ Filename: 15_north_lincolnshire_incl_barnetby_to_retford_cab_ride
 
 ---
 
-Lincoln Pelham Street Jn
+Lincoln Pelham Street Junction
 
 Lincoln
 
@@ -1000,11 +1000,11 @@ Snelland
 
 Market Rasen
 
-Wrawby Jn
+Wrawby Junction
 
 Barnetby
 
-Brocklesby Jn
+Brocklesby Junction
 
 Stallingborough
 
@@ -1054,7 +1054,7 @@ Filename: 16_gn_grantham_to_nottingham
 
 ---
 
-Allington Jn
+Allington Junction
 
 Bottesford
 
@@ -1081,7 +1081,7 @@ Radcliffe
 
 ---
 
-Netherfield Jn
+Netherfield Junction
 
 - Signalman Alan Deacon
 - Filmed Friday 14 August 1987
@@ -1101,7 +1101,7 @@ Lowdham
 
 Thurgaton
 
-Fiskerton Jn
+Fiskerton Junction
 
 - Filmed 5 August 1988
 
@@ -1197,7 +1197,7 @@ Filename: 17_gn_grantham_to_nottingham
 
 ---
 
-Allington Jn
+Allington Junction
 
 Bottesford
 
@@ -1224,7 +1224,7 @@ Radcliffe
 
 ---
 
-Netherfield Jn
+Netherfield Junction
 
 - Signalman Alan Deacon
 - Filmed Friday 14 August 1987
@@ -1244,7 +1244,7 @@ Lowdham
 
 Thurgaton
 
-Fiskerton Jn
+Fiskerton Junction
 
 - Filmed 5 August 1988
 
@@ -1863,7 +1863,7 @@ Metheringham/Blankney
 
 Potterhanworth
 
-Lincoln Pelham Street Jn
+Lincoln Pelham Street Junction
 
 Lincoln
 
@@ -1950,7 +1950,7 @@ Metheringham/Blankney
 
 Potterhanworth
 
-Lincoln Pelham Street Jn
+Lincoln Pelham Street Junction
 
 Lincoln
 
@@ -2236,15 +2236,15 @@ Keighley
 
 Butterley
 
-Swanwick Jn
+Swanwick Junction
 
 Butterley
 
-Butterley -> Swanwick Jn -> Riddings
+Butterley -> Swanwick Junction -> Riddings
 
 Riddings
 
-Riddings -> Swanwick Jn -> Butterley -> Hammersmith
+Riddings -> Swanwick Junction -> Butterley -> Hammersmith
 
 Hammersmith
 
@@ -2278,15 +2278,15 @@ Keighley
 
 Butterley
 
-Swanwick Jn
+Swanwick Junction
 
 Butterley
 
-Butterley -> Swanwick Jn -> Riddings
+Butterley -> Swanwick Junction -> Riddings
 
 Riddings
 
-Riddings -> Swanwick Jn -> Butterley -> Hammersmith
+Riddings -> Swanwick Junction -> Butterley -> Hammersmith
 
 Hammersmith
 
@@ -2540,7 +2540,7 @@ Garsdale
 
 Ribblehead
 
-Settle Jn
+Settle Junction
 
 Horton-in-Ribblesdale
 
@@ -2605,7 +2605,7 @@ Nottingham
 
 Butterley
 
-Swanwick Jn
+Swanwick Junction
 
 ## Midland Lines
 
@@ -2641,7 +2641,7 @@ Garsdale
 
 Ribblehead
 
-Settle Jn
+Settle Junction
 
 Horton-in-Ribblesdale
 
@@ -2706,7 +2706,7 @@ Nottingham
 
 Butterley
 
-Swanwick Jn
+Swanwick Junction
 
 ## Midland Lines
 
@@ -2742,7 +2742,7 @@ Garsdale
 
 Ribblehead
 
-Settle Jn
+Settle Junction
 
 Horton-in-Ribblesdale
 
@@ -2807,7 +2807,7 @@ Nottingham
 
 Butterley
 
-Swanwick Jn
+Swanwick Junction
 
 ## [Skipton to Carlisle](https://youtu.be/EeSKvlTgssI)
 
@@ -2823,7 +2823,7 @@ Hellifield
 
 Long Preston
 
-Settle Jn
+Settle Junction
 
 Settle
 
@@ -2857,7 +2857,7 @@ Garsdale
 
 Ribblehead
 
-Settle Jn
+Settle Junction
 
 Horton-in-Ribblesdale
 
@@ -2879,7 +2879,7 @@ Hellifield
 
 Long Preston
 
-Settle Jn
+Settle Junction
 
 Settle
 
@@ -2913,7 +2913,7 @@ Garsdale
 
 Ribblehead
 
-Settle Jn
+Settle Junction
 
 Horton-in-Ribblesdale
 
@@ -3087,7 +3087,7 @@ March West
 
 March South
 
-March Whitemoor Jn
+March Whitemoor Junction
 
 March
 
@@ -3187,7 +3187,7 @@ March West
 
 March South
 
-March Whitemoor Jn
+March Whitemoor Junction
 
 March
 
@@ -3495,7 +3495,7 @@ Inverness
 
 Wick
 
-Georgemas Jn
+Georgemas Junction
 
 Inverness
 
@@ -3593,7 +3593,7 @@ Filename: 53B_mostly_midlands
 
 ### [Part 1](https://youtu.be/M99GKCGRW4U)
 
-Allington Jn
+Allington Junction
 
 - TODO Check slides for date
 - Filmed August 1992
@@ -3751,7 +3751,7 @@ Filename: 53_mostly_midlands
 
 ### [Part 1](https://youtu.be/VeiiEMldOVY)
 
-Allington Jn
+Allington Junction
 
 - TODO Check slides for date
 - Filmed August 1992
@@ -3915,7 +3915,7 @@ March
 
 March Depot
 
-March South Jn
+March South Junction
 
 Three Horse Shoes No 3 Level Crossing
 
@@ -3925,11 +3925,11 @@ Wisbech
 
 Coldham
 
-March Whitemoor Jn
+March Whitemoor Junction
 
 March Depot
 
-March West Jn
+March West Junction
 
 Redmoor Level Crossing near Wisbech
 
@@ -3984,7 +3984,7 @@ March
 
 March Depot
 
-March South Jn
+March South Junction
 
 Three Horse Shoes No 3 Level Crossing
 
@@ -3994,11 +3994,11 @@ Wisbech
 
 Coldham
 
-March Whitemoor Jn
+March Whitemoor Junction
 
 March Depot
 
-March West Jn
+March West Junction
 
 Redmoor Level Crossing near Wisbech
 
@@ -4710,7 +4710,7 @@ Toton
 
 ### [Part 5](https://youtu.be/C7RohLrrWMU)
 
-Allington Jn
+Allington Junction
 
 - TODO Check slides for date
 - Filmed August 1992
@@ -4884,7 +4884,7 @@ Didcot Parkway
 
 Butterley
 
-Swanwick Jn
+Swanwick Junction
 
 - Filmed 17 December 1994
 
@@ -5037,7 +5037,7 @@ Didcot Parkway
 
 Butterley
 
-Swanwick Jn
+Swanwick Junction
 
 - Filmed 17 December 1994
 

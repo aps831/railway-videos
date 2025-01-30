@@ -560,7 +560,6 @@ March East
 Spalding
 
 - Filmed Thursday 11 November 1982
-- ***
 
 Murrow
 
@@ -675,7 +674,6 @@ March East
 Spalding
 
 - Filmed Thursday 11 November 1982
-- ***
 
 Murrow
 
@@ -4815,7 +4813,6 @@ Filename: 64_sheringham_norwich_cab_ride_reedit
 ---
 
 - Filmed March 1993
-- ***
 
 Cromer
 

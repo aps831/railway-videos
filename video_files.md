@@ -2484,6 +2484,8 @@ Worksop East
 
 Filename: 36B_worksop_to_cottam_power_station_cab_ride
 
+---
+
 - Filmed 17 April 1990
 
 ---
@@ -2494,9 +2496,11 @@ Cab Ride Manton Colliery->Cottam Power Station->Worksop
 
 ## [Worksop to Cottam Power Station Cab Ride](https://youtu.be/vQxnqrca0cI)
 
-- Filmed 17 April 1990
-
 Filename: 36_worksop_to_cottam_power_station_cab_ride
+
+---
+
+- Filmed 17 April 1990
 
 ---
 

@@ -2292,7 +2292,7 @@ Hammersmith -> Butterley
 
 Butterley
 
-- Filmed 11 December 1989 and 01 Januray 1990
+- Filmed 11 December 1989 and 01 January 1990
 
 ## [Nene Valley](https://youtu.be/CCXMWpSHLxE)
 

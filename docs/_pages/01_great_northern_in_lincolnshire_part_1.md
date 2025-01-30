@@ -2,5 +2,3 @@
 layout: post
 title: "GN in Lincolnshire"
 ---
-
-The GN in Lincolnshire

@@ -533,7 +533,7 @@ Twenty Foot River
 Cowbit
 
 - Signalman John Whitton
-- Filmed Friday 5 November 1982
+- Filmed Friday 28 October 1982
 
 ---
 
@@ -543,7 +543,7 @@ March Depot
 
 ---
 
-Whitemoor
+March Whitemoor Jn
 
 - Filmed Saturday 6 November 1982
 
@@ -559,7 +559,8 @@ March East
 
 Spalding
 
----
+- Filmed Thursday 11 November 1982
+- ***
 
 Murrow
 
@@ -569,7 +570,7 @@ Murrow
 
 Postland
 
-- Filmed Saturday 20 November 1982
+- Signalman Jack Morrison (early turn)
 
 ---
 
@@ -592,7 +593,7 @@ Murrow
 
 ## [The Joint Line](https://youtu.be/Ef8L196yLYg)
 
-Filename: 08_the_joint_line
+Filename: 08B_the_joint_line
 
 ---
 
@@ -647,7 +648,7 @@ Twenty Foot River
 Cowbit
 
 - Signalman John Whitton
-- Filmed Friday 5 November 1982
+- Filmed Friday 28 October 1982
 
 ---
 
@@ -657,7 +658,7 @@ March Depot
 
 ---
 
-Whitemoor
+March Whitemoor Jn
 
 - Filmed Saturday 6 November 1982
 
@@ -673,7 +674,8 @@ March East
 
 Spalding
 
----
+- Filmed Thursday 11 November 1982
+- ***
 
 Murrow
 
@@ -683,7 +685,7 @@ Murrow
 
 Postland
 
-- Filmed Saturday 20 November 1982
+- Signalman Jack Morrison (early turn)
 
 ---
 
@@ -5242,11 +5244,11 @@ Twenty Foot River
 Cowbit
 
 - Signalman John Whitton
-- Filmed Friday 5 November 1982
+- Filmed Friday 29 October 1982
 
 ---
 
-Whitemoor
+March Whitemoor Junction
 
 - Filmed Saturday 6 November 1982
 
@@ -5260,6 +5262,8 @@ March
 
 Spalding
 
+- Filmed Thursday 11 November 1982
+
 ---
 
 Murrow
@@ -5270,7 +5274,7 @@ Murrow
 
 Postland
 
-- Filmed Saturday 20 November 1982
+- Signalman Jack Morrison (early turn)
 
 ---
 

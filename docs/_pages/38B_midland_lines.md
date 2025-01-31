@@ -29,6 +29,10 @@ Toton
 
 ---
 
+- Filmed Summer 1989
+
+---
+
 Settle
 
 North of Settle
@@ -46,8 +50,6 @@ Ribblehead
 Settle Junction
 
 Horton-in-Ribblesdale
-
-- Filmed Summer 1989
 
 # Part 4
 

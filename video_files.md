@@ -2528,6 +2528,10 @@ Toton
 
 ### [Part 3](https://youtu.be/UwqB2IL0a9M)
 
+- Filmed Summer 1989
+
+---
+
 Settle
 
 North of Settle
@@ -2545,8 +2549,6 @@ Ribblehead
 Settle Junction
 
 Horton-in-Ribblesdale
-
-- Filmed Summer 1989
 
 ### [Part 4](https://youtu.be/noJcuMkopFM)
 
@@ -2629,6 +2631,9 @@ Toton
 
 ### [Part 3](https://youtu.be/3rhyUOs7lvQ)
 
+- Filmed Summer 1989
+- ***
+
 Settle
 
 North of Settle
@@ -2646,8 +2651,6 @@ Ribblehead
 Settle Junction
 
 Horton-in-Ribblesdale
-
-- Filmed Summer 1989
 
 ### [Part 4](https://youtu.be/YwfTj7ls4Pk)
 
@@ -2730,6 +2733,10 @@ Toton
 
 ### [Part 3](https://youtu.be/EbS6xFv2afA)
 
+- Filmed Summer 1989
+
+---
+
 Settle
 
 North of Settle
@@ -2747,8 +2754,6 @@ Ribblehead
 Settle Junction
 
 Horton-in-Ribblesdale
-
-- Filmed Summer 1989
 
 ### [Part 4](https://youtu.be/wFj5iMCoKdI)
 

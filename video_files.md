@@ -6135,7 +6135,7 @@ Minehead
 
 ### [Part 3](https://youtu.be/0XbnJLAh7GY)
 
-- TODO Filmed April/May 2002?
+- Filmed April/May 2002
 
 ---
 

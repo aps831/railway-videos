@@ -19,7 +19,7 @@ Ingrow West
 
 Keighley
 
-- Filmed 30 April 1989
+- Filmed 30 April 1989 and 13 August 1989
 
 ---
 

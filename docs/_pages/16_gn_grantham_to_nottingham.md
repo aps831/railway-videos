@@ -83,7 +83,7 @@ Staythorpe Crossing
 Newark Castle
 
 - Signalman Jack Meade
-- Filmed Tuesday 19 April 1988
+- Filmed Tuesday 18 April 1989
 
 ---
 
@@ -93,7 +93,7 @@ Swinderby
 
 Hykeham West
 
-- Filmed Tuesday 19 April 1988
+- Filmed Tuesday 18 April 1989
 
 ---
 

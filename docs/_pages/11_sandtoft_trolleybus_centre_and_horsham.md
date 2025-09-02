@@ -11,7 +11,7 @@ title: "Sandtoft Trolleybus Centre and Horsham"
 
 Sandtoft
 
-- Filmed March 1983 and 30 April 1989
+- Filmed March 1983, 1986 and 30 April 1989
 
 # Part 2
 
@@ -21,4 +21,4 @@ Sandtoft
 
 Horsham
 
-- Filmed April 1983
+- Filmed March 1983

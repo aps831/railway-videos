@@ -9,7 +9,7 @@ title: "Great Northern in Lincolnshire Parts 1 and 2"
 
 ---
 
-- Filmed 1984
+- Filmed September 1984
 
 ---
 
@@ -41,7 +41,7 @@ Skegness
 
 ---
 
-- Filmed Summer 1986 including 30 August 1986
+- Filmed August and September 1986 including 30 August 1986 and 6 September 1986
 
 ---
 

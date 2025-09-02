@@ -13,15 +13,21 @@ Hampton Loade
 
 Bridgnorth
 
+Eardington
+
 Hampton Loade
 
 Highley
 
 Arley
 
+Victoria Bridge
+
 Bewdley
 
 Kidderminster
+
+Hampton Loade
 
 - Filmed 22 and 23 August 1987
 
@@ -59,7 +65,7 @@ The Hawthorns
 
 ---
 
-- Filmed October 1987
+- Filmed 29 September 1987
 
 ---
 

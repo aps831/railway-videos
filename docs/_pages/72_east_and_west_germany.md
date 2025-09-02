@@ -9,7 +9,7 @@ title: "East and West Germany"
 
 ---
 
-- Filmed February 89 or October 1991
+- Filmed February 89
 
 ---
 
@@ -23,7 +23,7 @@ Sankt Augustin - Altersheim
 
 ---
 
-- Filmed February 89 or October 1991
+- Filmed February 89
 
 ---
 
@@ -39,7 +39,7 @@ Cologne
 
 ---
 
-- Filmed February 89 or October 1991
+- Filmed February 89
 
 Menden
 
@@ -49,7 +49,7 @@ Menden
 
 ---
 
-- Filmed February 89 or October 1991
+- Filmed February 89
 
 Cologne
 
@@ -59,7 +59,7 @@ Cologne
 
 ---
 
-- Filmed February 89 or October 1991
+- Filmed February 89
 
 Cologne
 
@@ -69,7 +69,7 @@ Cologne
 
 ---
 
-- Filmed February 89 or October 1991
+- Filmed February 89
 
 ---
 

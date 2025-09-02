@@ -9,6 +9,10 @@ title: "Peterborough to Syston"
 
 Peterborough
 
+- Filmed 9 January 1987
+
+---
+
 Woodcroft
 
 Uffington
@@ -63,6 +67,7 @@ Saxby
 
 Melton Mowbray
 
+- Relief signalman Gordon Derry
 - Filmed 16 October 1986
 
 ---
@@ -76,6 +81,8 @@ Frisby
 
 Syston South
 
+- Filmed 18 October
+
 Syston North
 
 - Filmed 18 October and 8 November 1986
@@ -85,8 +92,16 @@ Syston North
 Syston South
 
 - Signalman Peter Sissons and Mick Lumbis
-- Filmed 11 April 1987
+- Filmed 6 March 1987
 
 ---
 
 Syston East
+
+- Filmed 6 March 1987
+
+---
+
+Syston South
+
+- Filmed 6 March 1987

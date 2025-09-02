@@ -7,7 +7,7 @@ title: "Great Northern in Lincolnshire Part 2"
 
 ---
 
-- Filmed Summer 1986 including 30 August 1986
+- Filmed August and September 1986 including 30 August 1986 and 6 September 1986
 
 ---
 

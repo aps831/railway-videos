@@ -23,6 +23,8 @@ Loughborough GC
 
 Quorn & Woodhouse
 
+- Filmed 29 August 1988
+
 # Part 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L7ag9kPpULo" title="Great Central (Part 2)" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
@@ -58,3 +60,5 @@ Leicester North
 Rothley
 
 Outside Loughborough
+
+- Filmed 14 June 1992

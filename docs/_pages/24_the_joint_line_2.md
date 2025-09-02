@@ -9,11 +9,11 @@ title: "The Joint Line 2"
 
 Werrington
 
-- Filmed Tuesday 24 February 1987
-
----
-
 Peakirk
+
+St James Deeping
+
+- Filmed Tuesday 24 February 1987
 
 ---
 
@@ -21,8 +21,15 @@ St James Deeping
 
 - Signalman Sam Geeson
 - Train 4O56 cartics
+- Filmed Thursday 26 February 1987
+
+---
+
+St James Deeping
+
+- Signalman Sam Geeson
 - ECML diversions
-- Filmed Thursday 26 February 1987 and Sunday 15 March 1987
+- Filmed Sunday 15 March 1987
 
 ---
 
@@ -46,13 +53,13 @@ Gosberton
 
 Blotoft
 
-- Filmed 27 August 1988
-
----
-
 Sleaford
 
 Sleaford North
+
+- Filmed 27 August 1988
+
+---
 
 Ruskington
 
@@ -60,11 +67,11 @@ Scopwick
 
 Metheringham/Blankney
 
+Potterhanworth
+
 - Filmed 23 October 1988
 
 ---
-
-Potterhanworth
 
 Lincoln Pelham Street Junction
 
@@ -75,6 +82,12 @@ Lincoln
 ---
 
 Saxilby
+
+Gainsborough Lea Road
+
+- Filmed April 1989
+
+---
 
 Gainsborough Lea Road
 

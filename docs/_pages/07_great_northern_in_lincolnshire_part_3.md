@@ -9,11 +9,21 @@ title: "Great Northern in Lincolnshire Part 3"
 
 Allington Junction
 
+- Filmed August 1986
+
+---
+
 Grantham
+
+---
 
 Barkston South
 
 Barkston East
+
+- Filmed September 1986
+
+---
 
 Ancaster
 
@@ -29,6 +39,10 @@ Hubberts Bridge
 
 Boston
 
+- Filmed 20 August 1988
+
+---
+
 Bellwater
 
 Thorpe Culvert
@@ -37,11 +51,17 @@ Wainfleet
 
 Havenhouse
 
+---
+
 Skegness
+
+- Filmed 18 August 1989
+
+---
 
 Boston
 
-- Filmed Summer Saturdays 1987
+- Filmed 26 August 1989
 
 ---
 

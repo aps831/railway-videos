@@ -9,6 +9,12 @@ title: "Helpston to Syston"
 
 Helpston
 
+- Filmed 1987
+
+---
+
+Helpston
+
 - Signalman Philip Johnson
 - Filmed March 1983
 
@@ -18,39 +24,60 @@ Woodcroft
 
 - Relief signalman Chris Bradford
 - Trial run of first class 58
-- Filmed April 1983
+- Filmed March 1983
 
 ---
 
 Bainton Green
+
+- Filmed March 1983
 
 ---
 
 Stamford
 
 - Signalman Fred ???
+- Filmed March 1983
 
 ---
 
 Ketton
 
 - Signalman Ron Atkins
-- Filmed August 1983
+- Filmed March 1983
 
 ---
 
 Luffenham
 
-- Filmed 24 December 1983
+Manton Junction
+
+- Filmed 6 September 1983
 
 ---
 
+Oakham
+
 Langham Junction
 
+- Filmed 24 December 1985
+
+---
+
+Melton Mowbray
+
 Ashwell
+
+- Filmed 28 September 1985
+
+---
+
+Whissendine
 
 Saxby
 
 Syston South Junction
 
 Syston North Junction
+
+- Filmed 18 December 1985

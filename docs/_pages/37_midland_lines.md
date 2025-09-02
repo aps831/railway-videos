@@ -9,7 +9,7 @@ title: "Midland Lines"
 
 ---
 
-- Filmed April 1987
+- Filmed 17 April 1987
 
 ---
 
@@ -59,9 +59,20 @@ Horton-in-Ribblesdale
 
 Helpston
 
+- Filmed 23 February 1990
+
 Uffington
 
+- Filmed 23 February 1990
+
+---
+
+Uffington
+
+- Filmed 6 April 1990
 - Signalman George Sennick
+
+---
 
 Stamford
 
@@ -69,13 +80,16 @@ Ketton
 
 West of Ketton
 
+- Filmed 20 April 1990
+
 # Part 5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GNMQ4BO61lE" title="Midland Lines (Part 5)" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 ---
 
-- Filmed last week of operation May/June 1990
+- Last week of operation
+- Filmed 1 June 1990
 
 ---
 

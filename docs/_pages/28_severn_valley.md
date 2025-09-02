@@ -59,7 +59,7 @@ The Hawthorns
 
 ---
 
-- Filmed October 1987
+- Filmed 29 September 1987
 
 ---
 

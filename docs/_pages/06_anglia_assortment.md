@@ -9,12 +9,13 @@ title: "Anglia Assortment"
 
 Ely
 
-- Filmed 1983
+- Filmed March 1983
 
 ---
 
 Whittlesey
 
+- Signalman Eric Hancock
 - Filmed October 1985
 
 ---
@@ -25,19 +26,33 @@ Thetford
 
 Ely North Junction
 
+- Filmed August 1987
+
 ---
 
 St James Deeping
 
-- Filmed 1985
+- Signalman Jack Morrison
+- CHECK Filmed March 1983
+
+---
+
+Helpston
+
+Woodcroft
+
+- Filmed March 1983
 
 ---
 
 Woodcroft
 
+- Filmed September 1985
+
 Helpston
 
-- Filmed March 1983
+- Signalman Norman Bailey
+- Filmed September 1985
 
 ---
 
@@ -54,3 +69,6 @@ Woodcroft
 ---
 
 St James Deeping
+
+- Signalman Gerry Pearce
+- Filmed August 1989

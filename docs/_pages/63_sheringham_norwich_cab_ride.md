@@ -7,7 +7,7 @@ title: "Sheringham Norwich Cab Ride"
 
 ---
 
-- Filmed March 1993
+- Filmed June 1993
 
 ---
 

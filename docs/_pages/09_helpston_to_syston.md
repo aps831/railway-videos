@@ -9,6 +9,12 @@ title: "Helpston to Syston"
 
 Helpston
 
+- Filmed 1987
+
+---
+
+Helpston
+
 - Signalman Philip Johnson
 - Filmed March 1983
 
@@ -24,33 +30,58 @@ Woodcroft
 
 Bainton Green
 
+- CHECK Date
+
 ---
 
 Stamford
 
 - Signalman Fred ???
+- CHECK Date
 
 ---
 
 Ketton
 
 - Signalman Ron Atkins
-- Filmed August 1983
+- CHECK Filmed August 1983
 
 ---
 
 Luffenham
 
-- Filmed 24 December 1983
+- CHECK Filmed 24 December 1983
+
+---
+
+Manton Junction
+
+Oakham
+
+- Filmed 6 September 1983
 
 ---
 
 Langham Junction
 
+Melton Mowbray
+
+- Filmed 24 December 1985
+
+---
+
 Ashwell
+
+Whissendine
+
+- Filmed 28 September 1985
+
+---
 
 Saxby
 
 Syston South Junction
 
 Syston North Junction
+
+- Filmed 18 December 1985

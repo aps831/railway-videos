@@ -41,7 +41,7 @@ Pendre
 
 Tywyn Wharf
 
-- Filmed 1987
+- Filmed August 1987
 
 ---
 

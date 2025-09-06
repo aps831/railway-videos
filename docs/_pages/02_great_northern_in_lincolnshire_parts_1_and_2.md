@@ -3,15 +3,13 @@ layout: post
 title: "Great Northern in Lincolnshire Parts 1 and 2"
 ---
 
-=== TODO PS2 - Sept 84 and Aug and Sept 1986 ===
-
 # Part 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZM0M1WupzHc" title="Great Northern in Lincolnshire Parts 1 and 2 (Part 1)" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 ---
 
-- Filmed 1984
+- Filmed September 1984
 
 ---
 
@@ -43,7 +41,7 @@ Skegness
 
 ---
 
-- Filmed Summer 1986 including 30 August 1986
+- Filmed August and September 1986 including 30 August 1986
 
 ---
 

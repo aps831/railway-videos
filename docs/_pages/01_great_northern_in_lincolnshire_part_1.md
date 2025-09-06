@@ -7,7 +7,7 @@ title: "Great Northern in Lincolnshire Part 1"
 
 ---
 
-- Filmed 1984
+- Filmed September 1984
 
 ---
 

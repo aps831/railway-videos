@@ -42,6 +42,7 @@ Skegness
 Boston
 
 - Filmed Summer Saturdays 1987
+- TODO CHECK dates of Aug 86 and Aug 89
 
 ---
 

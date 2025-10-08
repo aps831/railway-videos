@@ -13,7 +13,7 @@ Ely
 
 ---
 
-Whittlesey
+Whittlesea
 
 - Signalman Eric Hancock
 - Filmed October 1985

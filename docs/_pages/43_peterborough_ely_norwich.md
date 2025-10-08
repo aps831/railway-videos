@@ -15,7 +15,7 @@ Peterborough NVR
 
 Kings Dyke
 
-Whittlesey
+Whittlesea
 
 ---
 
